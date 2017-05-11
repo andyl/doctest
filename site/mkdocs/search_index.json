@@ -2,61 +2,81 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to BlockChain Incentives\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Welcome to BlockChain Incentives\n\n\nThis is a documentation site for the BlockChain Incentives Project.\n\n\nThe Source Code for this documentation is located at http://github.com/project/documentation.\n\n\nIt is also available on IPFS at QmNWKWes3uyj5aAG4yHNwKnfCRJp78hJMnpcA7nD8wKXFF\n\n\nNotes\n\n\n\n\nSome important\n\n\nBullet points \n\n\nGo here\n\n\n\n\nContact Info\n\n\nTBD\nTBD",
             "title": "Home"
         },
         {
             "location": "/#welcome-to-blockchain-incentives",
-            "text": "For full documentation visit  mkdocs.org .",
+            "text": "This is a documentation site for the BlockChain Incentives Project.  The Source Code for this documentation is located at http://github.com/project/documentation.  It is also available on IPFS at QmNWKWes3uyj5aAG4yHNwKnfCRJp78hJMnpcA7nD8wKXFF",
             "title": "Welcome to BlockChain Incentives"
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/#notes",
+            "text": "Some important  Bullet points   Go here",
+            "title": "Notes"
         },
         {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/#contact-info",
+            "text": "TBD\nTBD",
+            "title": "Contact Info"
         },
         {
-            "location": "/wango/",
-            "text": "WANGO\n\n\nFirst para\n\n\nSomething Else\n\n\nSecond Para\n\n\nYo Yo\n\n\nThird Para",
-            "title": "Wango"
-        },
-        {
-            "location": "/wango/#wango",
-            "text": "First para",
-            "title": "WANGO"
-        },
-        {
-            "location": "/wango/#something-else",
-            "text": "Second Para",
-            "title": "Something Else"
-        },
-        {
-            "location": "/wango/#yo-yo",
-            "text": "Third Para",
-            "title": "Yo Yo"
-        },
-        {
-            "location": "/tango/",
+            "location": "/ipfs/",
             "text": "TANGO\n\n\nFirst para\n\n\nSomething Else\n\n\nSecond Para\n\n\nYo Yo\n\n\nThird Para",
-            "title": "Tango"
+            "title": "IPFS"
         },
         {
-            "location": "/tango/#tango",
+            "location": "/ipfs/#tango",
             "text": "First para",
             "title": "TANGO"
         },
         {
-            "location": "/tango/#something-else",
+            "location": "/ipfs/#something-else",
             "text": "Second Para",
             "title": "Something Else"
         },
         {
-            "location": "/tango/#yo-yo",
+            "location": "/ipfs/#yo-yo",
+            "text": "Third Para",
+            "title": "Yo Yo"
+        },
+        {
+            "location": "/dapp/",
+            "text": "WANGO\n\n\nFirst para\n\n\nSomething Else\n\n\nSecond Para\n\n\nYo Yo\n\n\nThird Para",
+            "title": "Dapps"
+        },
+        {
+            "location": "/dapp/#wango",
+            "text": "First para",
+            "title": "WANGO"
+        },
+        {
+            "location": "/dapp/#something-else",
+            "text": "Second Para",
+            "title": "Something Else"
+        },
+        {
+            "location": "/dapp/#yo-yo",
+            "text": "Third Para",
+            "title": "Yo Yo"
+        },
+        {
+            "location": "/mockups/",
+            "text": "WANGO\n\n\nFirst para\n\n\nSomething Else\n\n\nSecond Para\n\n\nYo Yo\n\n\nThird Para",
+            "title": "Mockups"
+        },
+        {
+            "location": "/mockups/#wango",
+            "text": "First para",
+            "title": "WANGO"
+        },
+        {
+            "location": "/mockups/#something-else",
+            "text": "Second Para",
+            "title": "Something Else"
+        },
+        {
+            "location": "/mockups/#yo-yo",
             "text": "Third Para",
             "title": "Yo Yo"
         }
