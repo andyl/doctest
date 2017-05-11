@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to BlockChain Incentives\n\n\nThis is a documentation site for the BlockChain Incentives Project.\n\n\nThe Source Code for this documentation is located at \nhttp://github.com/andyl/doctest\n.\n\n\nYou can view this generated documentation in two ways:\n\n\n\n\nOn GitHub pages at \nhttps://andyl.github.io/doctest\n\n\nOn \nIPFS\n\n\n\n\nNotes\n\n\n\n\nSome important\n\n\nBullet points \n\n\nGo here\n\n\n\n\nContact Info\n\n\nTBD\nTBD",
+            "text": "Welcome to BlockChain Incentives\n\n\nThis is a documentation site for the BlockChain Incentives Project.\n\n\nSource at \nhttp://github.com/andyl/doctest\n.\n\n\nView the generated documentation:\n\n\n\n\nvia HTTP at \nhttps://andyl.github.io/doctest\n\n\nvia \nIPFS\n\n\n\n\nNotes\n\n\n\n\nSome important\n\n\nBullet points \n\n\nGo here\n\n\n\n\nContact Info\n\n\nTBD\nTBD",
             "title": "Home"
         },
         {
             "location": "/#welcome-to-blockchain-incentives",
-            "text": "This is a documentation site for the BlockChain Incentives Project.  The Source Code for this documentation is located at  http://github.com/andyl/doctest .  You can view this generated documentation in two ways:   On GitHub pages at  https://andyl.github.io/doctest  On  IPFS",
+            "text": "This is a documentation site for the BlockChain Incentives Project.  Source at  http://github.com/andyl/doctest .  View the generated documentation:   via HTTP at  https://andyl.github.io/doctest  via  IPFS",
             "title": "Welcome to BlockChain Incentives"
         },
         {

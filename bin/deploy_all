@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+# deploy both the HTTP and IPFS websites
+
+if [[ -n $(git status -s) ]]; then
+  echo "ERROR: Commit and push all changes"
+  exit 1
+fi
+
+cdate=`date +"%y-%m-%d %H:%M:%S"`
+
+mkdocs build --clean
+
+if [[ -n $(git status -s ]]; then
+  echo Pushing changes
+  git add .
+  git commit -am"Build Changes $cdate"
+fi
+
+bin/ipfs_publish
+mkdocs build
+git commit -am"Update IPFS hash $cdate"
+git push
+mkdocs gh-deploy
