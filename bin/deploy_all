@@ -11,11 +11,8 @@ cdate=`date +"%y-%m-%d %H:%M:%S"`
 
 mkdocs build --clean
 
-if [[ -n $(git status -s ]]; then
-  echo Pushing changes
-  git add .
-  git commit -am"Build Changes $cdate"
-fi
+git add .
+git commit -am"Build-All $cdate"
 
 bin/ipfs_publish
 mkdocs build
