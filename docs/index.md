@@ -7,7 +7,7 @@ The Source Code for this documentation is located at [http://github.com/andyl/do
 You can view this generated documentation in two ways:
 
 - On GitHub pages at [https://andyl.github.io/doctest](https://andyl.github.io/doctest)
-- On IPFS at [https://gateway.ipfs.io/ipfs/TBDDD](https://gateway.ipfs.io/ipfs/TBDDD)
+- On [IPFS](ipfs)
 
 ## Notes
 

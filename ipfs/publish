@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+date=`date +'%y-%m-%d %H:%M:%S'`
+
+rm -rf .ipfs_site
+cp -r site .ipfs_site
+
+info="<p><small>( published to IPFS $date )</small></p>"
+sed "/<h1/ a $info" .ipfs_site/index.html > /tmp/index.html
+mv /tmp/index.html .ipfs_site/index.html
+
+hash=`ipfs add -r .ipfs_site | tail -1 | cut -f2 -d ' '`
+wurl="https://gateway.ipfs.io/ipfs/$hash"
+newl="| $date | [ $hash ]( $wurl )"
+
+sed "/| ----/ a $newl" docs/ipfs.md > /tmp/ipfs.md
+mv /tmp/ipfs.md docs/ipfs.md
+
+echo "Published new IPFS Version at $wurl"
+
