@@ -1,0 +1,64 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to BlockChain Incentives\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-blockchain-incentives",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to BlockChain Incentives"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/wango/",
+            "text": "WANGO\n\n\nFirst para\n\n\nSomething Else\n\n\nSecond Para\n\n\nYo Yo\n\n\nThird Para",
+            "title": "Wango"
+        },
+        {
+            "location": "/wango/#wango",
+            "text": "First para",
+            "title": "WANGO"
+        },
+        {
+            "location": "/wango/#something-else",
+            "text": "Second Para",
+            "title": "Something Else"
+        },
+        {
+            "location": "/wango/#yo-yo",
+            "text": "Third Para",
+            "title": "Yo Yo"
+        },
+        {
+            "location": "/tango/",
+            "text": "TANGO\n\n\nFirst para\n\n\nSomething Else\n\n\nSecond Para\n\n\nYo Yo\n\n\nThird Para",
+            "title": "Tango"
+        },
+        {
+            "location": "/tango/#tango",
+            "text": "First para",
+            "title": "TANGO"
+        },
+        {
+            "location": "/tango/#something-else",
+            "text": "Second Para",
+            "title": "Something Else"
+        },
+        {
+            "location": "/tango/#yo-yo",
+            "text": "Third Para",
+            "title": "Yo Yo"
+        }
+    ]
+}

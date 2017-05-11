@@ -1,0 +1,7 @@
+site_name: BlockChain Incentives
+theme:     readthedocs
+pages:
+  - Home:    index.md
+  - IPFS:    ipfs.md
+  - Dapps:   dapp.md
+  - Mockups: mockups.md
