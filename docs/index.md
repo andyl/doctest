@@ -9,13 +9,3 @@ View the generated documentation:
 - via HTTP at [https://andyl.github.io/doctest](https://andyl.github.io/doctest)
 - via [IPFS](ipfs)
 
-## Notes
-
-* Some important
-* Bullet points 
-* Go here
-
-## Contact Info
-
-    TBD
-    TBD

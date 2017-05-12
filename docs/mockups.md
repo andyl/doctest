@@ -1,12 +1,10 @@
-# WANGO
+# Mockups
 
-First para
+## Overview
 
-## Something Else
+Content TBD
 
-Second Para
+## Screen Shots
 
-## Yo Yo
-
-Third Para
+Content TBD
 

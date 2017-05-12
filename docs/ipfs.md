@@ -1,8 +1,4 @@
-# IPFS
-
-IPFS Website
-
-## Versions
+# IPFS Website Versions
 
 | Date              | Hash                                                                                                                              |
 | ----              | ----                                                                                                                              |
