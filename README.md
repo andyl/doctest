@@ -11,8 +11,13 @@ This is a test to show website publishing over IPFS.
 
 Requires write access to `http://github.com/andyl/doctest`.
 
-| 1. download the repo     | `git clone git@github.com:andyl/doctest.git` |
-| 2. build/deploy the site | `bin/deploy_all`                             |
+1. download the repo     
+
+    git clone git@github.com:andyl/doctest.git
+
+2. build/deploy the site 
+
+    bin/deploy_all
 
 View the HTTP version of the site at [https://andyl.github.io/doctest](https://andyl.github.io/doctest).
 
