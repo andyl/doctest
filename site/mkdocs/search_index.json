@@ -2,23 +2,108 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to BlockChain Incentives\n\n\nThis is a documentation site for the BlockChain Incentives Project.\n\n\nSource at \nhttp://github.com/andyl/doctest\n.\n\n\nView the generated documentation:\n\n\n\n\nvia HTTP at \nhttps://andyl.github.io/doctest\n\n\nvia \nIPFS",
+            "text": "The XD Markets Project\n\n\nThis is a documentation site for the XD Markets Project.\n\n\nSource at \nhttp://github.com/andyl/doctest\n.\n\n\nView the generated documentation:\n\n\n\n\nvia HTTP at \nhttps://andyl.github.io/doctest\n\n\nvia \nIPFS",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-blockchain-incentives",
-            "text": "This is a documentation site for the BlockChain Incentives Project.  Source at  http://github.com/andyl/doctest .  View the generated documentation:   via HTTP at  https://andyl.github.io/doctest  via  IPFS",
-            "title": "Welcome to BlockChain Incentives"
+            "location": "/#the-xd-markets-project",
+            "text": "This is a documentation site for the XD Markets Project.  Source at  http://github.com/andyl/doctest .  View the generated documentation:   via HTTP at  https://andyl.github.io/doctest  via  IPFS",
+            "title": "The XD Markets Project"
         },
         {
-            "location": "/ipfs/",
-            "text": "IPFS Website Versions\n\n\n\n\n\n\n\n\nDate\n\n\nHash\n\n\n\n\n\n\n\n\n\n\n17-05-11 17:00:41\n\n\n QmdSWfmeYRKnv9zCo8BFEZAUCVBmD91NJCHrRV3x4RJfq1 \n\n\n\n\n\n\n17-05-11 08:32:14\n\n\n QmTZmWoCcopykLrorYPyVjp3n2QKSccpinuZ5hYa6nJ2pR \n\n\n\n\n\n\n17-05-11 07:57:20\n\n\n QmV8WosX9dhnZ8kqDonK94r6sh9P63Q2LEDNt39DuLxHCi \n\n\n\n\n\n\n17-05-11 07:47:44\n\n\n QmUGsNvyeEmB1o1T9kpBDfet66B2dgSuRVWkETwoB7vauJ \n\n\n\n\n\n\n17-05-11 07:47:07\n\n\n Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH \n\n\n\n\n\n\n17-05-11 07:45:12\n\n\n Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH \n\n\n\n\n\n\n17-05-11 07:42:08\n\n\n Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH \n\n\n\n\n\n\n17-05-11 07:33:00\n\n\n Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH \n\n\n\n\n\n\n17-05-11 07:29:10\n\n\n Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH",
-            "title": "IPFS"
+            "location": "/overview/",
+            "text": "Overview\n\n\nContent TBD",
+            "title": "Overview"
         },
         {
-            "location": "/ipfs/#ipfs-website-versions",
-            "text": "Date  Hash      17-05-11 17:00:41   QmdSWfmeYRKnv9zCo8BFEZAUCVBmD91NJCHrRV3x4RJfq1     17-05-11 08:32:14   QmTZmWoCcopykLrorYPyVjp3n2QKSccpinuZ5hYa6nJ2pR     17-05-11 07:57:20   QmV8WosX9dhnZ8kqDonK94r6sh9P63Q2LEDNt39DuLxHCi     17-05-11 07:47:44   QmUGsNvyeEmB1o1T9kpBDfet66B2dgSuRVWkETwoB7vauJ     17-05-11 07:47:07   Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH     17-05-11 07:45:12   Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH     17-05-11 07:42:08   Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH     17-05-11 07:33:00   Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH     17-05-11 07:29:10   Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH",
-            "title": "IPFS Website Versions"
+            "location": "/overview/#overview",
+            "text": "Content TBD",
+            "title": "Overview"
+        },
+        {
+            "location": "/scenarios/",
+            "text": "XD Markets - Usage Scenarios\n\n\nDescription\n\n\nScenarios\n\n\nDeveloper has a Fix\n\n\nDeveloper Select High-Value Bugs\n\n\nDeveloper Selects Easy-to-Fix Bugs",
+            "title": "Usage Scenarios"
+        },
+        {
+            "location": "/scenarios/#xd-markets-usage-scenarios",
+            "text": "",
+            "title": "XD Markets - Usage Scenarios"
+        },
+        {
+            "location": "/scenarios/#description",
+            "text": "",
+            "title": "Description"
+        },
+        {
+            "location": "/scenarios/#scenarios",
+            "text": "Developer has a Fix  Developer Select High-Value Bugs  Developer Selects Easy-to-Fix Bugs",
+            "title": "Scenarios"
+        },
+        {
+            "location": "/use_cases/",
+            "text": "XD Markets - Scenarios and Use Cases\n\n\nSensing Use Cases\n\n\nPrioritization Use Cases\n\n\n\n\n\n\n\n\nActor\n\n\nOrganization\n\n\nOverview\n\n\n\n\n\n\n\n\n\n\nProduct Manager\n\n\nAny\n\n\nManages Payout Algorithms\n\n\n\n\n\n\nDeveloper\n\n\nAny\n\n\nWatches Market, Fixes Bugs\n\n\n\n\n\n\nProduct Owner\n\n\nMozilla\n\n\nAssembles and Watches Metrics\n\n\n\n\n\n\nChallenger\n\n\nAny\n\n\nCreates new prediction\n\n\n\n\n\n\nParticipant\n\n\nAny\n\n\nReviews and takes prediction\n\n\n\n\n\n\n\n\nActors and Use Cases\n\n\nProduct Manager\n\n\n\n\ncreate an account\n\n\ncreate payout\n\n\nbacktest payout\n\n\npublish payout\n\n\nretire payout\n\n\n\n\nDeveloper\n\n\n\n\ncreates an account\n\n\naccepts challenge\n\n\nfixes bugs\n\n\n\n\nProduct Owner\n\n\n\n\ncreates an account\n\n\ncollects metrics\n\n\n\n\nChallenger\n\n\n\n\ncreats an account\n\n\ncreates prediction\n\n\n\n\nParticipant\n\n\n\n\n\n\n\n\nScenarios\n\n\nDeveloper has a Fix\n\n\nDeveloper Select High-Value Bugs\n\n\nDeveloper Selects Easy-to-Fix Bugs",
+            "title": "Use Cases"
+        },
+        {
+            "location": "/use_cases/#xd-markets-scenarios-and-use-cases",
+            "text": "",
+            "title": "XD Markets - Scenarios and Use Cases"
+        },
+        {
+            "location": "/use_cases/#sensing-use-cases",
+            "text": "",
+            "title": "Sensing Use Cases"
+        },
+        {
+            "location": "/use_cases/#prioritization-use-cases",
+            "text": "Actor  Organization  Overview      Product Manager  Any  Manages Payout Algorithms    Developer  Any  Watches Market, Fixes Bugs    Product Owner  Mozilla  Assembles and Watches Metrics    Challenger  Any  Creates new prediction    Participant  Any  Reviews and takes prediction",
+            "title": "Prioritization Use Cases"
+        },
+        {
+            "location": "/use_cases/#actors-and-use-cases",
+            "text": "Product Manager   create an account  create payout  backtest payout  publish payout  retire payout   Developer   creates an account  accepts challenge  fixes bugs   Product Owner   creates an account  collects metrics   Challenger   creats an account  creates prediction   Participant",
+            "title": "Actors and Use Cases"
+        },
+        {
+            "location": "/use_cases/#scenarios",
+            "text": "Developer has a Fix  Developer Select High-Value Bugs  Developer Selects Easy-to-Fix Bugs",
+            "title": "Scenarios"
+        },
+        {
+            "location": "/objects/",
+            "text": "XD Markets - Software Objects\n\n\nSoftware Objects\n\n\nAccount\n\n\nAnyone who interacts with the system must have an account.\n\n\nAttributes:\n- username (optional)\n- email (optional - for notifications)\n- ethereum public key\n\n\nPayout\n\n\nAttributes:\n- owner\n- DSL - represented as a JSON object\n- visibilty (public/private)\n- status (test / production / retired)\n\n\nPrediction\n\n\nAttributes:\n- Challenger\n- Amount\n\n\nRepo\n\n\nAttributes:\n- repo type (GitHub, BugZilla)\n- URL\n\n\nIssue\n\n\nPrediction\n\n\nChallenge",
+            "title": "Software Objects"
+        },
+        {
+            "location": "/objects/#xd-markets-software-objects",
+            "text": "",
+            "title": "XD Markets - Software Objects"
+        },
+        {
+            "location": "/objects/#software-objects",
+            "text": "Account  Anyone who interacts with the system must have an account.  Attributes:\n- username (optional)\n- email (optional - for notifications)\n- ethereum public key  Payout  Attributes:\n- owner\n- DSL - represented as a JSON object\n- visibilty (public/private)\n- status (test / production / retired)  Prediction  Attributes:\n- Challenger\n- Amount  Repo  Attributes:\n- repo type (GitHub, BugZilla)\n- URL  Issue  Prediction  Challenge",
+            "title": "Software Objects"
+        },
+        {
+            "location": "/incentive/",
+            "text": "DAPPS\n\n\nOverview\n\n\nContent TBD\n\n\nScreen Shots\n\n\nContent TBD",
+            "title": "Incentives"
+        },
+        {
+            "location": "/incentive/#dapps",
+            "text": "",
+            "title": "DAPPS"
+        },
+        {
+            "location": "/incentive/#overview",
+            "text": "Content TBD",
+            "title": "Overview"
+        },
+        {
+            "location": "/incentive/#screen-shots",
+            "text": "Content TBD",
+            "title": "Screen Shots"
         },
         {
             "location": "/dapp/",
@@ -41,44 +126,14 @@
             "title": "Screen Shots"
         },
         {
-            "location": "/mockups/",
-            "text": "Mockups\n\n\nOverview\n\n\nContent TBD\n\n\nScreen Shots\n\n\nContent TBD",
-            "title": "Mockups"
+            "location": "/ipfs/",
+            "text": "IPFS Website Versions\n\n\n\n\n\n\n\n\nDate\n\n\nHash\n\n\n\n\n\n\n\n\n\n\n17-05-11 17:00:41\n\n\n QmdSWfmeYRKnv9zCo8BFEZAUCVBmD91NJCHrRV3x4RJfq1 \n\n\n\n\n\n\n17-05-11 08:32:14\n\n\n QmTZmWoCcopykLrorYPyVjp3n2QKSccpinuZ5hYa6nJ2pR \n\n\n\n\n\n\n17-05-11 07:57:20\n\n\n QmV8WosX9dhnZ8kqDonK94r6sh9P63Q2LEDNt39DuLxHCi \n\n\n\n\n\n\n17-05-11 07:47:44\n\n\n QmUGsNvyeEmB1o1T9kpBDfet66B2dgSuRVWkETwoB7vauJ \n\n\n\n\n\n\n17-05-11 07:47:07\n\n\n Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH \n\n\n\n\n\n\n17-05-11 07:45:12\n\n\n Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH \n\n\n\n\n\n\n17-05-11 07:42:08\n\n\n Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH \n\n\n\n\n\n\n17-05-11 07:33:00\n\n\n Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH \n\n\n\n\n\n\n17-05-11 07:29:10\n\n\n Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH",
+            "title": "IPFS"
         },
         {
-            "location": "/mockups/#mockups",
-            "text": "",
-            "title": "Mockups"
-        },
-        {
-            "location": "/mockups/#overview",
-            "text": "Content TBD",
-            "title": "Overview"
-        },
-        {
-            "location": "/mockups/#screen-shots",
-            "text": "Content TBD",
-            "title": "Screen Shots"
-        },
-        {
-            "location": "/incentive/",
-            "text": "Incentives\n\n\nOverview\n\n\nContent TBD\n\n\nScreen Shots\n\n\nContent TBD",
-            "title": "Incentives"
-        },
-        {
-            "location": "/incentive/#incentives",
-            "text": "",
-            "title": "Incentives"
-        },
-        {
-            "location": "/incentive/#overview",
-            "text": "Content TBD",
-            "title": "Overview"
-        },
-        {
-            "location": "/incentive/#screen-shots",
-            "text": "Content TBD",
-            "title": "Screen Shots"
+            "location": "/ipfs/#ipfs-website-versions",
+            "text": "Date  Hash      17-05-11 17:00:41   QmdSWfmeYRKnv9zCo8BFEZAUCVBmD91NJCHrRV3x4RJfq1     17-05-11 08:32:14   QmTZmWoCcopykLrorYPyVjp3n2QKSccpinuZ5hYa6nJ2pR     17-05-11 07:57:20   QmV8WosX9dhnZ8kqDonK94r6sh9P63Q2LEDNt39DuLxHCi     17-05-11 07:47:44   QmUGsNvyeEmB1o1T9kpBDfet66B2dgSuRVWkETwoB7vauJ     17-05-11 07:47:07   Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH     17-05-11 07:45:12   Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH     17-05-11 07:42:08   Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH     17-05-11 07:33:00   Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH     17-05-11 07:29:10   Qmf3M3hPy5eumQynQYpy64iCdACH6Lr39Gy55ZJdt7kdqH",
+            "title": "IPFS Website Versions"
         }
     ]
 }

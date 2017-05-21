@@ -1,8 +1,13 @@
-site_name: BlockChain Incentives
+site_name: XD Markets
 theme:     readthedocs
 pages:
-  - Home:       index.md
-  - IPFS:       ipfs.md
-  - Dapps:      dapp.md
-  - Mockups:    mockups.md
-  - Incentives: incentive.md
+  - Home:             index.md
+  - Overview:         overview.md
+  - Usage Scenarios:  scenarios.md
+  - Use Cases:        use_cases.md
+    - Overview: use_cases.md
+    - Bing:     bing/create.md
+  - Software Objects: objects.md
+  - Incentives:       incentive.md
+  - Dapps:            dapp.md
+  - IPFS:             ipfs.md

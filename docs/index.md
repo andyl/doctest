@@ -1,6 +1,6 @@
-# Welcome to BlockChain Incentives
+# The XD Markets Project
 
-This is a documentation site for the BlockChain Incentives Project.
+This is a documentation site for the XD Markets Project.
 
 Source at [http://github.com/andyl/doctest](http://github.com/andyl/doctest).
 

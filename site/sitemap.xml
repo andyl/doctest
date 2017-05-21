@@ -4,31 +4,39 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2017-05-11</lastmod>
+     <lastmod>2017-05-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/ipfs/</loc>
-     <lastmod>2017-05-11</lastmod>
+     <loc>None/overview/</loc>
+     <lastmod>2017-05-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/dapp/</loc>
-     <lastmod>2017-05-11</lastmod>
+     <loc>None/scenarios/</loc>
+     <lastmod>2017-05-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/mockups/</loc>
-     <lastmod>2017-05-11</lastmod>
+     <loc>None/use_cases/</loc>
+     <lastmod>2017-05-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/objects/</loc>
+     <lastmod>2017-05-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,7 +44,23 @@
     
     <url>
      <loc>None/incentive/</loc>
-     <lastmod>2017-05-11</lastmod>
+     <lastmod>2017-05-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/dapp/</loc>
+     <lastmod>2017-05-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ipfs/</loc>
+     <lastmod>2017-05-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
