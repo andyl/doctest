@@ -2,13 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "The XD Markets Project\n\n\nThis is a documentation site for the XD Markets Project.\n\n\nSource at \nhttp://github.com/andyl/doctest\n.\n\n\nView the generated documentation:\n\n\n\n\nvia HTTP at \nhttps://andyl.github.io/doctest\n\n\nvia \nIPFS", 
+            "text": "The XD Markets Project\n\n\nThis is documentation for the XD Markets Project.\n\n\nReferences\n\n\n\n\nXD Markets Intro\n\n\n\n\nDocumentation Viewing\n\n\nView the generated documentation:\n\n\n\n\nvia HTTP at \nhttps://andyl.github.io/doctest\n\n\nvia \nIPFS", 
             "title": "Home"
         }, 
         {
             "location": "/#the-xd-markets-project", 
-            "text": "This is a documentation site for the XD Markets Project.  Source at  http://github.com/andyl/doctest .  View the generated documentation:   via HTTP at  https://andyl.github.io/doctest  via  IPFS", 
+            "text": "This is documentation for the XD Markets Project.", 
             "title": "The XD Markets Project"
+        }, 
+        {
+            "location": "/#references", 
+            "text": "XD Markets Intro", 
+            "title": "References"
+        }, 
+        {
+            "location": "/#documentation-viewing", 
+            "text": "View the generated documentation:   via HTTP at  https://andyl.github.io/doctest  via  IPFS", 
+            "title": "Documentation Viewing"
         }, 
         {
             "location": "/overview/", 
@@ -57,7 +67,7 @@
         }, 
         {
             "location": "/use_cases/", 
-            "text": "XD Markets - Scenarios and Use Cases\n\n\nSensing Use Cases\n\n\nPrioritization Use Cases\n\n\n\n\n\n\n\n\nActor\n\n\nOrganization\n\n\nOverview\n\n\n\n\n\n\n\n\n\n\nProduct Manager\n\n\nAny\n\n\nManages Payout Algorithms\n\n\n\n\n\n\nDeveloper\n\n\nAny\n\n\nWatches Market, Fixes Bugs\n\n\n\n\n\n\nProduct Owner\n\n\nMozilla\n\n\nAssembles and Watches Metrics\n\n\n\n\n\n\nChallenger\n\n\nAny\n\n\nCreates new prediction\n\n\n\n\n\n\nParticipant\n\n\nAny\n\n\nReviews and takes prediction\n\n\n\n\n\n\n\n\nActors and Use Cases\n\n\nProduct Manager\n\n\n\n\ncreate an account\n\n\ncreate payout\n\n\nbacktest payout\n\n\npublish payout\n\n\nretire payout\n\n\n\n\nDeveloper\n\n\n\n\ncreates an account\n\n\naccepts challenge\n\n\nfixes bugs\n\n\n\n\nProduct Owner\n\n\n\n\ncreates an account\n\n\ncollects metrics\n\n\n\n\nChallenger\n\n\n\n\ncreats an account\n\n\ncreates prediction\n\n\n\n\nParticipant\n\n\n\n\n\n\n\n\nScenarios\n\n\nDeveloper has a Fix\n\n\nDeveloper Select High-Value Bugs\n\n\nDeveloper Selects Easy-to-Fix Bugs", 
+            "text": "XD Markets - Scenarios and Use Cases\n\n\nSensing Use Cases\n\n\nUnder Construction\n\n\nPrioritization Use Cases\n\n\n\n\n\n\n\n\nActor\n\n\nOrganization\n\n\nOverview\n\n\n\n\n\n\n\n\n\n\nProduct Manager\n\n\nAny\n\n\nManages Payout Algorithms\n\n\n\n\n\n\nDeveloper\n\n\nAny\n\n\nWatches Market, Fixes Bugs\n\n\n\n\n\n\nProduct Owner\n\n\nMozilla\n\n\nAssembles and Watches Metrics\n\n\n\n\n\n\nChallenger\n\n\nAny\n\n\nCreates new prediction\n\n\n\n\n\n\nParticipant\n\n\nAny\n\n\nReviews and takes prediction\n\n\n\n\n\n\n\n\nProduct Manager\n\n\n\n\n\n\n\n\nPrioritization Use Case\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\ncreate an account\n\n\nCreate an account\n\n\n\n\n\n\ncreate payout\n\n\nCreate payout\n\n\n\n\n\n\nbacktest payout\n\n\nCreate payout\n\n\n\n\n\n\nretire payout\n\n\nRetire payout\n\n\n\n\n\n\n\n\nDeveloper\n\n\n\n\ncreates an account\n\n\naccepts challenge\n\n\nfixes bugs\n\n\n\n\nProduct Owner\n\n\n\n\ncreates an account\n\n\ncollects metrics\n\n\n\n\nChallenger\n\n\n\n\ncreats an account\n\n\ncreates prediction\n\n\n\n\nParticipant", 
             "title": "Overview"
         }, 
         {
@@ -67,7 +77,7 @@
         }, 
         {
             "location": "/use_cases/#sensing-use-cases", 
-            "text": "", 
+            "text": "Under Construction", 
             "title": "Sensing Use Cases"
         }, 
         {
@@ -76,13 +86,8 @@
             "title": "Prioritization Use Cases"
         }, 
         {
-            "location": "/use_cases/#actors-and-use-cases", 
-            "text": "", 
-            "title": "Actors and Use Cases"
-        }, 
-        {
             "location": "/use_cases/#product-manager", 
-            "text": "create an account  create payout  backtest payout  publish payout  retire payout", 
+            "text": "Prioritization Use Case  Description      create an account  Create an account    create payout  Create payout    backtest payout  Create payout    retire payout  Retire payout", 
             "title": "Product Manager"
         }, 
         {
@@ -106,34 +111,54 @@
             "title": "Participant"
         }, 
         {
-            "location": "/use_cases/#scenarios", 
-            "text": "", 
-            "title": "Scenarios"
+            "location": "/cases/all_roles/", 
+            "text": "All Roles\n\n\nCreate an Account\n\n\nTBD", 
+            "title": "All Roles"
         }, 
         {
-            "location": "/use_cases/#developer-has-a-fix", 
+            "location": "/cases/all_roles/#all-roles", 
             "text": "", 
-            "title": "Developer has a Fix"
+            "title": "All Roles"
         }, 
         {
-            "location": "/use_cases/#developer-select-high-value-bugs", 
-            "text": "", 
-            "title": "Developer Select High-Value Bugs"
-        }, 
-        {
-            "location": "/use_cases/#developer-selects-easy-to-fix-bugs", 
-            "text": "", 
-            "title": "Developer Selects Easy-to-Fix Bugs"
+            "location": "/cases/all_roles/#create-an-account", 
+            "text": "TBD", 
+            "title": "Create an Account"
         }, 
         {
             "location": "/cases/product_manager/", 
-            "text": "Create\n\n\ntest 123 test 123", 
+            "text": "Product Manager\n\n\nCreate an Account\n\n\nTBD\n\n\nCreate Payout\n\n\nTBD\n\n\nBacktest Payout\n\n\nTBD\n\n\nPublish Payout\n\n\nTBD\n\n\nRetire Payout\n\n\nTBD", 
             "title": "Product Manager"
         }, 
         {
-            "location": "/cases/product_manager/#create", 
-            "text": "test 123 test 123", 
-            "title": "Create"
+            "location": "/cases/product_manager/#product-manager", 
+            "text": "", 
+            "title": "Product Manager"
+        }, 
+        {
+            "location": "/cases/product_manager/#create-an-account", 
+            "text": "TBD", 
+            "title": "Create an Account"
+        }, 
+        {
+            "location": "/cases/product_manager/#create-payout", 
+            "text": "TBD", 
+            "title": "Create Payout"
+        }, 
+        {
+            "location": "/cases/product_manager/#backtest-payout", 
+            "text": "TBD", 
+            "title": "Backtest Payout"
+        }, 
+        {
+            "location": "/cases/product_manager/#publish-payout", 
+            "text": "TBD", 
+            "title": "Publish Payout"
+        }, 
+        {
+            "location": "/cases/product_manager/#retire-payout", 
+            "text": "TBD", 
+            "title": "Retire Payout"
         }, 
         {
             "location": "/objects/", 

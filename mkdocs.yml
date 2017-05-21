@@ -1,6 +1,6 @@
-site_name:        'XD Markets'
+site_name:        'XDMarket'
 site_author:      'MVSC'
-site_description: 'XD Markets Project Documentation'
+site_description: 'XDMarket Project Documentation'
 site_url:         'http://andyl.github.io/doctest'
 site_favicon:     'img/favicon.gif'
 theme:            'material'
@@ -14,7 +14,6 @@ markdown_extensions:
   - toc(permalink=true)
 pages:
   - Home:             index.md
-  - Overview:         overview.md
   - Usage Scenarios:  scenarios.md
   - Use Cases:   
     - Overview:            use_cases.md

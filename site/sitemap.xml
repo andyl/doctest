@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>/</loc>
+     <loc>http://andyl.github.io/doctest/</loc>
      <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>/overview/</loc>
+     <loc>http://andyl.github.io/doctest/overview/</loc>
      <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -19,7 +19,7 @@
 
     
     <url>
-     <loc>/scenarios/</loc>
+     <loc>http://andyl.github.io/doctest/scenarios/</loc>
      <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -28,13 +28,19 @@
     
         
     <url>
-     <loc>/use_cases/</loc>
+     <loc>http://andyl.github.io/doctest/use_cases/</loc>
      <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/cases/product_manager/</loc>
+     <loc>http://andyl.github.io/doctest/cases/all_roles/</loc>
+     <lastmod>2017-05-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://andyl.github.io/doctest/cases/product_manager/</loc>
      <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -43,7 +49,7 @@
 
     
     <url>
-     <loc>/objects/</loc>
+     <loc>http://andyl.github.io/doctest/objects/</loc>
      <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -51,7 +57,7 @@
 
     
     <url>
-     <loc>/incentive/</loc>
+     <loc>http://andyl.github.io/doctest/incentive/</loc>
      <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -59,7 +65,7 @@
 
     
     <url>
-     <loc>/dapp/</loc>
+     <loc>http://andyl.github.io/doctest/dapp/</loc>
      <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -67,7 +73,7 @@
 
     
     <url>
-     <loc>/ipfs/</loc>
+     <loc>http://andyl.github.io/doctest/ipfs/</loc>
      <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
