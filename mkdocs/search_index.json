@@ -2,33 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "The XD Markets Project\n\n\nThis is documentation for the XD Markets Project.\n\n\nReferences\n\n\n\n\nXD Markets Intro\n\n\n\n\nDocumentation Viewing\n\n\nView the generated documentation:\n\n\n\n\nvia HTTP at \nhttps://andyl.github.io/doctest\n\n\nvia \nIPFS", 
+            "text": "The XDMarket Project\n\n\nXDMarket is a Mozilla project to explore the use of Blockchain, Incentive\nAlgorithms and Prediction Markets to optimize Community Managed Software.  \n\n\nSee the \nXDMarket Intro\n\nfor more info.\n\n\nDocumentation Viewing\n\n\nView the generated documentation:\n\n\n\n\nvia HTTP at \nhttps://andyl.github.io/doctest\n\n\nvia \nIPFS", 
             "title": "Home"
         }, 
         {
-            "location": "/#the-xd-markets-project", 
-            "text": "This is documentation for the XD Markets Project.", 
-            "title": "The XD Markets Project"
-        }, 
-        {
-            "location": "/#references", 
-            "text": "XD Markets Intro", 
-            "title": "References"
+            "location": "/#the-xdmarket-project", 
+            "text": "XDMarket is a Mozilla project to explore the use of Blockchain, Incentive\nAlgorithms and Prediction Markets to optimize Community Managed Software.    See the  XDMarket Intro \nfor more info.", 
+            "title": "The XDMarket Project"
         }, 
         {
             "location": "/#documentation-viewing", 
             "text": "View the generated documentation:   via HTTP at  https://andyl.github.io/doctest  via  IPFS", 
             "title": "Documentation Viewing"
-        }, 
-        {
-            "location": "/overview/", 
-            "text": "Overview\n\n\nContent TBD", 
-            "title": "Overview"
-        }, 
-        {
-            "location": "/overview/#overview", 
-            "text": "Content TBD", 
-            "title": "Overview"
         }, 
         {
             "location": "/scenarios/", 
@@ -112,7 +97,7 @@
         }, 
         {
             "location": "/cases/all_roles/", 
-            "text": "All Roles\n\n\nCreate an Account\n\n\nTBD", 
+            "text": "All Roles\n\n\nView Home Page\n\n\nA public user learns about XDMarket concept and has options to\nsign up or log in.\n\n\n\n\n\n\n\n\nExplain the XDMarket concept.  \n\n\n\n\nExample\n\n\nXDMarket is an extensible marketplace for software predictions\nand defects...\n\n\n\n\n\n\n\n\nShow XDMarket statistics.\n\n\n\n\nExample\n\n\nRepos: 14\n\nOpen Issues: 437\n\nClosed Issues: 19\n\n30-day Payouts: $5342\n\n\n\n\n\n\n\n\nShow a graph with historical data.\n\n\n\n\n\n\nSign In\n\n\nUser Signs in.", 
             "title": "All Roles"
         }, 
         {
@@ -121,9 +106,14 @@
             "title": "All Roles"
         }, 
         {
-            "location": "/cases/all_roles/#create-an-account", 
-            "text": "TBD", 
-            "title": "Create an Account"
+            "location": "/cases/all_roles/#view-home-page", 
+            "text": "A public user learns about XDMarket concept and has options to\nsign up or log in.     Explain the XDMarket concept.     Example  XDMarket is an extensible marketplace for software predictions\nand defects...     Show XDMarket statistics.   Example  Repos: 14 \nOpen Issues: 437 \nClosed Issues: 19 \n30-day Payouts: $5342     Show a graph with historical data.", 
+            "title": "View Home Page"
+        }, 
+        {
+            "location": "/cases/all_roles/#sign-in", 
+            "text": "User Signs in.", 
+            "title": "Sign In"
         }, 
         {
             "location": "/cases/product_manager/", 
