@@ -3,7 +3,7 @@ site_author:      'MVSC'
 site_description: 'XDMarket Project Documentation'
 site_url:         'https://andyl.github.io/xdm_docs'
 site_favicon:     'img/favicon.gif'
-theme:            'material'
+theme_dir:        '_theme/material'
 copyright:        'Copyright &copy; 2017 Mountain View Smart Contracts'
 extra:
   disqus: 'xdm-docs'
