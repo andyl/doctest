@@ -1,11 +1,14 @@
 site_name:        'XDMarket'
 site_author:      'MVSC'
 site_description: 'XDMarket Project Documentation'
-site_url:         'http://andyl.github.io/doctest'
+site_url:         'https://andyl.github.io/xdm_docs'
 site_favicon:     'img/favicon.gif'
 theme:            'material'
 copyright:        'Copyright &copy; 2017 Mountain View Smart Contracts'
 extra:
+  disqus: 'xdm-docs.disqus.com'
+  palette:
+    primary: 'green'
   social:
     - type: 'github'
       link: 'https://github.com/andyl/doctest'

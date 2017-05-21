@@ -1,14 +1,31 @@
 # All Roles
 
-## Create an Account
+## View Home Page
 
-User will create an account.
+A public user learns about XDMarket concept and has options to
+sign up or log in.
 
 ![Create](/img/_HomePage.png)
 
-## Login
+1. Explain the XDMarket concept.  
 
-User logs in.
+    !!! example
+        XDMarket is an extensible marketplace for software predictions
+        and defects...
 
-![Login](/img/_Mockup2.png)
+2. Show XDMarket statistics.
+
+    !!! example
+        Repos: 14<br/>
+        Open Issues: 437<br/>
+        Closed Issues: 19</br>
+        30-day Payouts: $5342</br>
+
+3. Show a graph with historical data.
+
+## Sign In
+
+User Signs in.
+
+![SignIn](/img/_SignIn.png)
 

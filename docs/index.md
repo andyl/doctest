@@ -1,10 +1,10 @@
-# The XD Markets Project
+# The XDMarket Project
 
-This is documentation for the XD Markets Project.
+XDMarket is a Mozilla project to explore the use of Blockchain, Incentive
+Algorithms and Prediction Markets to optimize Community Managed Software.  
 
-## References
-
-- [XD Markets Intro](https://docs.google.com/presentation/d/19ykpjbNOn2W_DXdFCgUqVUjrLkNRIIkdLD3F1UW6J-k/edit#slide=id.p)
+See the [XDMarket Intro](https://docs.google.com/presentation/d/19ykpjbNOn2W_DXdFCgUqVUjrLkNRIIkdLD3F1UW6J-k/edit#slide=id.p)
+for more info.
 
 ## Documentation Viewing
 

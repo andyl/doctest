@@ -1,4 +1,4 @@
-# XD Markets - Scenarios and Use Cases
+# XDMarket - Use Cases
 
 ## Sensing Use Cases
 
