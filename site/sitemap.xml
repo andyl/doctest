@@ -3,64 +3,72 @@
 
     
     <url>
-     <loc>None/</loc>
-     <lastmod>2017-05-20</lastmod>
+     <loc>/</loc>
+     <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/overview/</loc>
-     <lastmod>2017-05-20</lastmod>
+     <loc>/overview/</loc>
+     <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/scenarios/</loc>
-     <lastmod>2017-05-20</lastmod>
+     <loc>/scenarios/</loc>
+     <lastmod>2017-05-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/use_cases/</loc>
+     <lastmod>2017-05-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/cases/product_manager/</loc>
+     <lastmod>2017-05-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>/objects/</loc>
+     <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/use_cases/</loc>
-     <lastmod>2017-05-20</lastmod>
+     <loc>/incentive/</loc>
+     <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/objects/</loc>
-     <lastmod>2017-05-20</lastmod>
+     <loc>/dapp/</loc>
+     <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/incentive/</loc>
-     <lastmod>2017-05-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/dapp/</loc>
-     <lastmod>2017-05-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/ipfs/</loc>
-     <lastmod>2017-05-20</lastmod>
+     <loc>/ipfs/</loc>
+     <lastmod>2017-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     

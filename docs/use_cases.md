@@ -2,6 +2,8 @@
 
 ## Sensing Use Cases
 
+Under Construction
+
 ## Prioritization Use Cases
 
 | Actor           | Organization | Overview                      |
@@ -12,15 +14,19 @@
 | Challenger      | Any          | Creates new prediction        |
 | Participant     | Any          | Reviews and takes prediction  |
 
-## Actors and Use Cases
-
 ### Product Manager
 
-- [create an account](use_cases/create)
-- create payout
-- backtest payout
-- publish payout
-- retire payout
+| Prioritization Use Case             | Description       |
+|-------------------------------------|-------------------|
+| [create an account][create_account] | Create an account |
+| [create payout][create_payout]      | Create payout     |
+| [backtest payout][backtest_payout]  | Create payout     |
+| [retire payout][retire_payout]      | Retire payout     |
+
+[create_account]:  cases/all_roles/#create-an-account
+[create_payout]:   cases/product_manager/#create-an-account
+[backtest_payout]: cases/product_manager/#create-an-account
+[retire_payout]:   cases/product_manager/#create-an-account
 
 ### Developer
 
@@ -39,21 +45,4 @@
 - creates prediction
 
 ### Participant
-
-- 
-
-
-
-## Scenarios
-
-### Developer has a Fix
-
-### Developer Select High-Value Bugs
-
-### Developer Selects Easy-to-Fix Bugs
-
-
-
-
-
 

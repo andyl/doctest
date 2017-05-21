@@ -1,12 +1,25 @@
-site_name: XD Markets
-theme:     readthedocs
+site_name:        'XD Markets'
+site_author:      'MVSC'
+site_description: 'XD Markets Project Documentation'
+site_url:         'http://andyl.github.io/doctest'
+site_favicon:     'img/favicon.gif'
+theme:            'material'
+copyright:        'Copyright &copy; 2017 Mountain View Smart Contracts'
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/andyl/doctest'
+markdown_extensions:
+  - admonition
+  - toc(permalink=true)
 pages:
   - Home:             index.md
   - Overview:         overview.md
   - Usage Scenarios:  scenarios.md
-  - Use Cases:        use_cases.md
-    - Overview: use_cases.md
-    - Bing:     bing/create.md
+  - Use Cases:   
+    - Overview:            use_cases.md
+    - All Roles:           cases/all_roles.md
+    - Product Manager:     cases/product_manager.md
   - Software Objects: objects.md
   - Incentives:       incentive.md
   - Dapps:            dapp.md
