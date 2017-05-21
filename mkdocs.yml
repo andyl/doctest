@@ -6,7 +6,7 @@ site_favicon:     'img/favicon.gif'
 theme:            'material'
 copyright:        'Copyright &copy; 2017 Mountain View Smart Contracts'
 extra:
-  disqus: 'xdm-docs.disqus.com'
+  disqus: 'xdm-docs'
   palette:
     primary: 'green'
   social:
